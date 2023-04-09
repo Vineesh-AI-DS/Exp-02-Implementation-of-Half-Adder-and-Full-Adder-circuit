@@ -71,6 +71,5 @@ RTL realization
 ![de5](https://user-images.githubusercontent.com/93427254/230759559-ddb2598f-ca50-4b1d-9c17-a853169a2e75.png)
 ### TRUTH TABLE:
 ![de6](https://user-images.githubusercontent.com/93427254/230759560-86740eed-bb17-49f5-8606-3afb7b86db05.png)
-
 ### Result:
 Thus, a half adder and full adder circuit is designed to verify its truth table in Quartus using Verilog programming.
